@@ -1,4 +1,4 @@
-COTOS
+## Cotos Angharad, the Collector
 
 Scroll of Dimension Door   
 Pearl worth 100 gp (for Identify)  
@@ -18,7 +18,7 @@ Brooch of Shielding (35 pts magic missile damage)
 Starting Items
    
       
-DE VERE
+## De Vere
 
 Potion of Gaseous Form  
 +1 Shield  
@@ -28,7 +28,7 @@ Full Plate
 Starting Items   
 
   
-NORMAN
+## Guy Norman, Baliff  
 
 Girdle of Ogre Strength  
 +2 Flail  
@@ -39,7 +39,7 @@ Potion of Climbing
 Starting Items  
 
   
-KITTY
+## The Kitty
 
 8281 gp  
 +1 Dagger  
