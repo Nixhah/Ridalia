@@ -56,6 +56,6 @@ Starting Items
   
 ## The Kitty
 
-5781 gp  
+2781 gp  
 +1 Dagger  
 +1 Leather Armor  
