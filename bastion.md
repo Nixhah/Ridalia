@@ -14,8 +14,4 @@ Access to Old Guard Home, West Wind, the Scriptorium, and the River
 Hireling: Zardhal
 purchased 500 gp worth of fish and bait
 
-## Village Smithy - Armory
-Hireling: Smith the Smith
-Stock armory w/ 500 gp worth of weapons
-
-total expense: 5,500 gp  
+total expense: 4,000 gp  
