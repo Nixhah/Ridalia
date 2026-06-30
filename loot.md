@@ -1,3 +1,5 @@
+As you can see, Cotos has appropriated most of the loot with his long, spindly fingers.
+
 ## Cotos Angharad, the Collector
 
 Scroll of Dimension Door   
@@ -10,7 +12,7 @@ Yassan Compound Bow (shortbow range but 1d8)
 Potion of Gaseous Form   
 Potion of Extra Healing (1d8+1 x3)   
 Boots of Elvenkind  
-Medalion nof the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD  
+Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD  
 Spellbook(Darkness, Suggestion, Shield, Illusory Script, Charm Person, Find Familiar, Identify, +6 unchosen)  
 Brooch of Shielding (35 pts magic missile damage)   
 5 Yassan Thunder Arrows  
