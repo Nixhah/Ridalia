@@ -17,3 +17,5 @@ purchased 500 gp worth of fish and bait
 ## Village Smithy - Armory
 Hireling: Smith the Smith
 Stock armory w/ 500 gp worth of weapons
+
+total expense: 5,500 gp  
