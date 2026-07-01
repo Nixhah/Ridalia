@@ -51,11 +51,11 @@ Potion of Climbing
 Potion of extra healing (1d8 x3 or 3d8+3)  
 2 throwing knives  
 Ring of Feather Falling - not yet (attuned)  
-Starting Items  
+Starting Items 
 
   
 ## The Kitty
 
-4381 gp  
+5881 gp  
 +1 Dagger  
 +1 Leather Armor  

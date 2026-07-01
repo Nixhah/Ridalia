@@ -10,8 +10,4 @@ Hireling: Velkar, human fighter 4
 We live here  
 Access to Old Guard Home, West Wind, the Scriptorium, and the River
 
-## Bait Shop & Wharves - Storehouse
-Hireling: Zardhal
-purchased 500 gp worth of fish and bait
-
-total expense: 4,000 gp  
+total expense: 2,500 gp  
