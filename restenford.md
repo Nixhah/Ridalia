@@ -52,6 +52,6 @@ Lady: Fairwind
 
 ## Crows
 
-Prelate: Yorick ->  
+Prelate: Yorick -> 
 
 

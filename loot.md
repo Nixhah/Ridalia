@@ -21,10 +21,10 @@ Prophecy declaring de Vere's brother's death
 failed prophecies
 residue of nastiness in a vial (DC 14 dex save vs poisoned)   
 Scroll of Misty step - spend 1 pt of library faction for false afterimage  
-Scroll of Lesser Restoration - caster gets minor echo of cured affliction
 Scroll of Fireball - need Stygian faction pt to use, creates green flame that spreads & can't be extinguished for 10 minutes  
 Supernatural token - single use Identify  
 Starting Items
+Champion Warhorse in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
    
       
 ## De Vere
@@ -38,6 +38,7 @@ Full Plate
 Extensive geneological notes from scriptorium  
 Brooch of Shielding (17 pts magic missile damage)
 Starting Items   
+Champion Warhorse in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
 
   
 ## Guy Norman, Baliff  
@@ -52,10 +53,11 @@ Potion of extra healing (1d8 x3 or 3d8+3)
 2 throwing knives  
 Ring of Feather Falling - not yet (attuned)  
 Starting Items 
+Champion Warhorse in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)  
 
   
 ## The Kitty
 
-5881 gp  
+3781 gp  
 +1 Dagger  
 +1 Leather Armor  
