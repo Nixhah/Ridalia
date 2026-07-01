@@ -3,8 +3,8 @@
 ## Restenford Rumors
  * Elanor Hinderlunde bitten by rat
  * Skeletons down at old guard home
- * Grellis is incompetent
-
+ * Grellus is incompetent
+ * Hard Staples House N Town
  * Tess Vane taken
 
 ## County Rumors
