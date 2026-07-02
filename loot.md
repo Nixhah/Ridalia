@@ -13,32 +13,27 @@ Potion of Gaseous Form
 Potion of Extra Healing (1d8 x3 or 3d8+3)   
 Boots of Elvenkind  
 Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD  
-Spellbook(Darkness, Suggestion, Shield, Illusory Script, Charm Person, Find Familiar, Identify, +6 unchosen)  
+Spellbook(Darkness, Suggestion, Shield, Illusory Script, Silent Image, Find Familiar, Identify, Magic Aura, Scorching Ray, Burning Hands, Augury, Hold Person, Disguise Self)  
 Brooch of Shielding (35 pts magic missile damage)   
 5 Yassan Thunder Arrows  
-6 Yassan Poisoned Arrows
-Prophecy declaring de Vere's brother's death  
-failed prophecies
+6 Yassan Poisoned Arrows  
 residue of nastiness in a vial (DC 14 dex save vs poisoned)   
-Scroll of Misty step - spend 1 pt of library faction for false afterimage  
-Scroll of Fireball - need Stygian faction pt to use, creates green flame that spreads & can't be extinguished for 10 minutes  
-Supernatural token - single use Identify  
-Starting Items
-Champion Warhorse in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
+Scroll of Misty step - spend 1 pt of library faction for false afterimage    
+Starting Items  
+Champion Warhorse "Fuss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
    
       
 ## De Vere
 
 Potion of Gaseous Form  
 +1 Shield  
-+1 Battleaxe  
-Potion of Healing  
++1 Battleaxe   
 Full Plate
 6 throwing knives  
 Extensive geneological notes from scriptorium  
-Brooch of Shielding (17 pts magic missile damage)
-Starting Items   
-Champion Warhorse in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
+Brooch of Shielding (17 pts magic missile damage)  
+Starting Items     
+Champion Warhorse "Cuss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
 
   
 ## Guy Norman, Baliff  
@@ -52,12 +47,12 @@ Potion of Climbing
 Potion of extra healing (1d8 x3 or 3d8+3)  
 2 throwing knives  
 Ring of Feather Falling - not yet (attuned)  
-Starting Items 
-Champion Warhorse in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)  
+Starting Items   
+Champion Warhorse "Muss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)  
 
   
 ## The Kitty
 
-3781 gp  
+3831 gp  
 +1 Dagger  
 +1 Leather Armor  

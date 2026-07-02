@@ -22,6 +22,8 @@ Smith: Anton (dead) ->
 ## Talis Cloister
 
 Scholar Tolvar -> Peltar  
+"Apprentice" Tolmar - he's playing both sides
+Theurge Grista - in charge of Peltar's health
 
 ## Library
 
@@ -48,10 +50,11 @@ Quotes: "Not yet!"
 ## Keep
 
 Baron: Grellis Fairwind  
-Lady: Fairwind  
+Lady: Fairwind
+Daughter: Andrella; too clever by half  
 
 ## Crows
 
-Prelate: Yorick -> 
+Prelate: Yorick 
 
 
