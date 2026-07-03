@@ -53,6 +53,6 @@ Champion Warhorse "Muss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp wh
   
 ## The Kitty
 
-3831 gp  
+4466 gp  
 +1 Dagger  
 +1 Leather Armor  
