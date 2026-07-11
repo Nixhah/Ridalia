@@ -17,5 +17,8 @@
    * Tritop
    * Bald Hills
  * Scriptors have determined that Chronicle of Ridalia is at Bone Hill
- * Sock-stealing Evil Gnomes in Dwemer Forest
+ * Very real sock-stealing Evil Gnomes in Dwemer Forest
  * Hard Staples House has apples and talking skeleton
+ * Black Wind Maelstrom forming around Pebble Hill
+
+* The Fool Court is spooked by something; to the point where they may be willing to work with the Talis. The Holly is spreading South.

@@ -21,6 +21,7 @@ residue of nastiness in a vial (DC 14 dex save vs poisoned)
 Scroll of Misty step - spend 1 pt of library faction for false afterimage    
 Starting Items  
 Champion Warhorse "Fuss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
+Vaghalter Mercy - dagger that prevents resurrection
    
       
 ## De Vere
@@ -53,6 +54,6 @@ Champion Warhorse "Muss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp wh
   
 ## The Kitty
 
-4466 gp  
+2464.8 gp  
 +1 Dagger  
 +1 Leather Armor  

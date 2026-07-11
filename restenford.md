@@ -32,7 +32,8 @@ Any tall bearded man may enter the tower, all others are barred
 Curator: Qualton  
 Adept: Crelar (dead)  
 Acoltye: Almon  
-Apprentice: Haki (dead)  
+Apprentice: Haki (dead) 
+??: Hagir, trying to decipher the command word of a cracked crystal ball belonging to Pellta. Working w/ Andrella.
 
 ## Tavern - West Wind - Dying Minotaur
 
@@ -52,7 +53,7 @@ Quotes: "Not yet!"
 ## Keep
 
 Baron: Grellis Fairwind  
-Lady: Fairwind
+Lady: Mary Fairwind
 Daughter: Andrella; too clever by half  
 
 ## Crows
@@ -62,6 +63,11 @@ Prelate: Yorick
 ## Druids
 Almax: druid and truest Ridalian . 
 Felwin: cohort of the de Vere's, familiar is owl.
+
+## The Docks
+Zardhal: Baitmonger and spy of Duke Creyton.
+    
+Ardo "Singer": drow order cleric, Talis Inquisitor. 
 
 
 
