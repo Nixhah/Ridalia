@@ -30,21 +30,25 @@ Aleol: Ancient and innocent elf thief, craves novelty. Hired to scout the Baron'
 The Badlands   
 The Unkillable Fucker that hired Vulcifer to Kill Us 
 
-## Cotos Factions
+## Cotos
 Factions: Arveni(Aedui), Yeomanry   
 Enemies: The Library, Talus  
 
 1 favor restinford city guard (yeomanry)   
 1 favor alea  
+Oath of the Peach Tree  
 
-## Guy Norman Factions
+## Guy Norman
 Factions: Yeomanry  
 Enemies: Stormcrows, Arveni  
 
-idk favors  
+idk favors    
+Grudge w/ Library
+Oath of the Peach Tree 
 
-## de Vere Factions
-Factions: ??  
+## de Vere
+Factions: University  
 Enemies: Library, ??
 
 idk favors
+Oath of the Peach Tree  

@@ -1,14 +1,14 @@
 # Rumors
 
 ## Restenford Rumors
- * Elanor Hinderlunde bitten by rat
+ * Elanor Hinderlunde bitten by rat - its the rats under the guardhouse (cleared)
  * Skeletons down at old guard home
- * Grellus is incompetent
+ * Grellus is incompetent - we knew that already
  * Hard Staples House N Town
- * Tess Vane taken
+ * Tess Vane taken - did we ever resolve this?
 
 ## County Rumors
- * Children missing from E of Bone Hill
+ * Children missing from E of Bone Hill - taken to create more UD
  * Strange things have been seen:
    * Pebble Hills
    * Lark Hill
@@ -20,5 +20,5 @@
  * Very real sock-stealing Evil Gnomes in Dwemer Forest
  * Hard Staples House has apples and talking skeleton
  * Black Wind Maelstrom forming around Pebble Hill
-
+ * Lady on black horse seen riding in Dead Forest - its Aleol
 * The Fool Court is spooked by something; to the point where they may be willing to work with the Talis. The Holly is spreading South.

@@ -33,7 +33,7 @@ Heavy Armor Master(DR 3/bludgeoning,piercing, & slashing)
 Blindfighting(10 ft blindsense)  
 Second Wind(1d10+1)  
 Arcane Recovery(2)  
-Portent(5)  
+Portent(5,12)  
 Darkvision 60ft
 
 ## Spellcasting

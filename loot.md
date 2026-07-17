@@ -12,6 +12,7 @@ Yassan Compound Bow (shortbow range but 1d8)
 Potion of Gaseous Form   
 Potion of Extra Healing (1d8 x3 or 3d8+3)   
 Boots of Elvenkind  
+Shortsword +1 (Yassan)
 Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD  
 Spellbook(Darkness, Suggestion, Shield, Illusory Script, Silent Image, Find Familiar, Identify, Magic Aura, Scorching Ray, Burning Hands, Augury, Hold Person, Disguise Self)  
 Brooch of Shielding (35 pts magic missile damage)   
@@ -20,8 +21,8 @@ Brooch of Shielding (35 pts magic missile damage)
 residue of nastiness in a vial (DC 14 dex save vs poisoned)   
 Scroll of Misty step - spend 1 pt of library faction for false afterimage    
 Starting Items  
-Champion Warhorse "Fuss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)
-Vaghalter Mercy - dagger that prevents resurrection
+Champion Warhorse "Fuss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)  
+Vaghalter Mercy - dagger that prevents resurrection  
    
       
 ## De Vere
